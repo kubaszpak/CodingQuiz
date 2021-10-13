@@ -14,7 +14,6 @@ Disclaimer: Unfortunatelly the firebase database config is not attached to the c
 </br>
 
 ## Description and preview
----
 </br>
 
 ![](git-images/1.png)
@@ -23,7 +22,6 @@ Disclaimer: Unfortunatelly the firebase database config is not attached to the c
 
 ## Quiz
 
----
 </br>
 The Play subpage allows one to try their luck in a programming quiz. The questions are drawn from the firebase database. Every question has 3 potential answers and always only 1 is correct. Player has 60 seconds to get as many points as possible.
 </br></br>
@@ -39,7 +37,6 @@ The Play subpage allows one to try their luck in a programming quiz. The questio
   </br>
 
 ## Post
----
 </br>
 
 When the backend is running, user can post new questions to the database by filling the editor with the specified piece of code and choosing 3 potential answers with the one being correct. To use the database - create a firebase application and copy the initial configuration to quiz/src/firebase/config.js file.
@@ -49,7 +46,6 @@ When the backend is running, user can post new questions to the database by fill
 ![](git-images/4.png)
 
 ## Start
----
 
 To start the server cd into server directory and run
 ```bash
@@ -64,7 +60,6 @@ npm start
 </br>
 
 ## Kredek Lab8
----
 
 This application was created as a homework for a university coding club [Kredek](https://www.facebook.com/KNKredek)
 
